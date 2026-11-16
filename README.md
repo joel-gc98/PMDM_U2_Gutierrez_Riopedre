@@ -1,1 +1,5 @@
-# Estructura-interfaz-persistencia-y-diseno
+# PMDM_U2_Gutierrez_Riopedre
+
+Joel Gutiérrez Corrales
+
+Daniel Riopedre
